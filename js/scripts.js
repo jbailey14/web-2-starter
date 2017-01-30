@@ -1,2 +1,1 @@
-// Awesome Interaction
-console.log('Hello! You are awesome!');
+// YOUR SCRIPTS GO HERE
